@@ -1,7 +1,11 @@
 # 18 November 2026 in one image
 
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/t65244973-cell/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/t65244973-cell/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
 A newspaper front page summing up world news on Wednesday 18 November 2026,
-built for make.fun's `news-image-20261118` bounty ($250 in USDC).
+built for make.fun's [news-image-20261118 bounty](https://make.fun/bounty/news-image-20261118) ($250 in USDC).
 
 ## The image
 
